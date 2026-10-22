@@ -19,3 +19,6 @@ All Glory to Lord Jesus Christ.
 1. GitHub: https://github.com/KJC-DNN/Album103_The_Hope_Is_His/releases/tag/103.0.0
 2. Archive: https://archive.org/details/album-103-album-103-the-hope-is-his-main-cover.jpg
 3. Zenodo: https://doi.org/10.5281/zenodo.23556256
+
+# Instrumentals
+https://github.com/KJC-DNN/Album103_Instrumentals_The_Hope_Is_His/blob/main/README.md
